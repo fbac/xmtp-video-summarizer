@@ -48,6 +48,23 @@ Prefer insights that are:
 - Preserve uncertainty: use “may”, “appears”, “according to the speaker” when the transcript is unclear.
 - If the transcript is low-quality or incomplete, state limitations briefly.
 - Mention the presenter (if any), guests (in case it's a podcast, interview, etc.), topic, purpose, and the main arc.
+- Use emojis to make the summary more engaging, and emphasize the important points. Some emojis that you can use, for example,
+are: 
+  - 💡 insight
+  - 📝 note
+  - 🔍 research
+  - 🤔 question
+  - 💭 idea
+  - 🔥 hot
+  - 🚀 breakthrough
+  - 🤯 wow
+  - 🧨 danger
+  - 💥 explosion
+  - ⭐️ star
+  - 🧠 brain
+  - 👽 alien
+  - 🤖 robot
+  - 🫀 heart
 
 ## Required Markdown Structure
 
@@ -62,6 +79,8 @@ Prefer insights that are:
 #### **Insight title** (mandatory)
 
 Body of the insight: a paragraph explaining the What, Why, How, and Implications of the insight. Do not make it into a bullet list.
+
+Include an emoji at the beginning of the insight title.
 
 Include 1-10 insights depending on the transcript richness.
 
