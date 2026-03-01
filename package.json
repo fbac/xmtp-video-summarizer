@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.72.1",
-    "@types/node": "^25.1.0",
+    "@types/node": "^25.3.3",
     "@xmtp/agent-sdk": "2.0.1",
     "dotenv-defaults": "^5.0.2",
     "openai": "^4.104.0",
