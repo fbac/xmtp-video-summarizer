@@ -10,7 +10,7 @@
     "dotenv-defaults": "^6.0.0",
     "openai": "^4.104.0",
     "tsx": "^4.21.0",
-    "typescript": "^5.9.3",
+    "typescript": "^6.0.2",
     "youtube-transcript-plus": "^1.1.2"
   },
   "description": "",
