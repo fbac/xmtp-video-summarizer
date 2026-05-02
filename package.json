@@ -4,7 +4,7 @@
     "url": "https://github.com/xmtp/agent-sdk-starter/issues"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.88.0",
+    "@anthropic-ai/sdk": "^0.92.0",
     "@types/node": "^25.5.0",
     "@xmtp/agent-sdk": "2.3.0",
     "dotenv-defaults": "^6.0.0",
