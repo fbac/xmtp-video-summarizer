@@ -11,7 +11,7 @@
     "openai": "^6.35.0",
     "tsx": "^4.21.0",
     "typescript": "^6.0.3",
-    "youtube-transcript-plus": "^2.0.0"
+    "youtube-transcript-plus": "^2.0.1"
   },
   "description": "",
   "homepage": "https://github.com/xmtp/agent-sdk-starter#readme",
